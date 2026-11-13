@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "id",
+    "lang",
+    "category",
+    "prompt",
+    "difficulty"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "lang": {
+      "enum": [
+        "ro",
+        "en",
+        "hu",
+        "fr",
+        "de",
+        "it",
+        "es",
+        "pt"
+      ]
+    },
+    "category": {
+      "enum": [
+        "grammar",
+        "culture",
+        "reasoning",
+        "law",
+        "science",
+        "translation",
+        "creative",
+        "code"
+      ]
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "difficulty": {
+      "enum": [
+        "easy",
+        "medium",
+        "hard"
+      ]
+    },
+    "reference_notes": {
+      "type": "string"
+    }
+  }
+}
