@@ -4,6 +4,8 @@
 
 Versão: 0.1.0 · Última atualização: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Avaliação cega e lado a lado de modelos de IA em romeno — prompts e votos abertos.
 
 Trade-free: sem rastreamento, sem anúncios, sem contas, funciona offline.

@@ -4,6 +4,8 @@
 
 Version : 0.1.0 · Dernière mise à jour : 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Évaluation à l'aveugle, côte à côte, de modèles d'IA en roumain — prompts et votes publics.
 
 Trade-free : sans suivi, sans publicité, sans compte, fonctionne hors ligne.

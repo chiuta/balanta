@@ -4,6 +4,8 @@
 
 Versione: 0.1.0 · Ultimo aggiornamento: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Valutazione cieca e affiancata di modelli IA in rumeno — prompt e voti pubblici.
 
 Trade-free: nessun tracciamento, nessuna pubblicità, nessun account, funziona offline.

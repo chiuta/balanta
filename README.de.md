@@ -4,6 +4,8 @@
 
 Version: 0.1.0 · Letzte Aktualisierung: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Blinder Vergleich von KI-Modellen auf Rumänisch – Prompts und Stimmen offen einsehbar.
 
 Trade-free: kein Tracking, keine Werbung, keine Konten, funktioniert offline.

@@ -4,6 +4,8 @@
 
 Versión: 0.1.0 · Última actualización: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Evaluación ciega y comparada de modelos de IA en rumano — prompts y votos abiertos.
 
 Trade-free: sin rastreo, sin anuncios, sin cuentas, funciona sin conexión.

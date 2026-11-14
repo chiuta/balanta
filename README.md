@@ -4,6 +4,8 @@
 
 Version: 0.1.0 · Last updated: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > Blind, side-by-side evaluation of AI models in Romanian — prompts and votes kept in the open.
 
 Trade-free: no tracking, no ads, no accounts, works offline.

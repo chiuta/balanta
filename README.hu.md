@@ -4,6 +4,8 @@
 
 Verzió: 0.1.0 · Utolsó frissítés: 2026-11-13
 
+🌐 https://balanta.chiuta.ro
+
 > KI-modellek vak, párhuzamos értékelése románul – nyílt promptok és szavazatok.
 
 Trade-free: nincs követés, nincs reklám, nincs fiók, offline is működik.
