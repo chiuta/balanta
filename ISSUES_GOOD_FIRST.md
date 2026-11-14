@@ -1,5 +1,7 @@
 # Good first issues
 
+**English** · [Română](ISSUES_GOOD_FIRST.ro.md) · [Français](ISSUES_GOOD_FIRST.fr.md) · [Italiano](ISSUES_GOOD_FIRST.it.md) · [Español](ISSUES_GOOD_FIRST.es.md) · [Português](ISSUES_GOOD_FIRST.pt.md) · [Deutsch](ISSUES_GOOD_FIRST.de.md) · [Magyar](ISSUES_GOOD_FIRST.hu.md)
+
 - [ ] Add 30 Romanian grammar prompts (diacritics, `s-au/sau`, `i-a/ia`, hyphenation)
 - [ ] Add 20 prompts on Romanian culture and history, each with reference notes and a source
 - [ ] Add 20 reasoning prompts in Romanian (logic, arithmetic word problems)
