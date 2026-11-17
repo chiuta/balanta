@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0012",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Completează cu «al», «a», «ai» sau «ale»: «Cartea e ___ mea.», «Prietenii sunt ___ mei.», «Caietele sunt ___ ei.», «Creionul e ___ lui.», «Scaunele sunt ___ noastre.»",
+  "difficulty": "medium",
+  "reference_notes": "a mea (cartea: feminin singular); ai mei (prietenii: masculin plural); ale ei (caietele: neutru plural, se acordă ca femininul plural); al lui (creionul: masculin singular); ale noastre (scaunele: neutru plural)."
+}

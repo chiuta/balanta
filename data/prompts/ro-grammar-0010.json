@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0010",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "De ce trebuie să scriem «ș» și «ț» cu virgulă dedesubt, nu cu sedilă (U+015F și U+0163)? Care sunt codurile Unicode corecte pentru literele mici și mari?",
+  "difficulty": "easy",
+  "reference_notes": "Ortografia românească folosește virgula dedesubt: ș = U+0219, ț = U+021B, Ș = U+0218, Ț = U+021A. Variantele cu sedilă (U+015F, U+0163, U+015E, U+0162) provin din turcă și din vechile codificări; în texte corecte pentru română se evită."
+}

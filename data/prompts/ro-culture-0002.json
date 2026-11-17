@@ -1,0 +1,13 @@
+{
+  "id": "ro-culture-0002",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce s-a hotărât la Alba Iulia la 1 decembrie 1918 și de ce este această zi Ziua Națională a României?",
+  "difficulty": "easy",
+  "reference_notes": "Marea Adunare Națională de la Alba Iulia (1228 de delegați) a votat unirea Transilvaniei, Banatului, Crișanei și Maramureșului cu Regatul României. Basarabia se unise cu România în martie 1918, iar Bucovina în noiembrie 1918. 1 Decembrie a fost adoptată ca Ziua Națională prin legea nr. 10 din 31 iulie 1990.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Marea_Adunare_Na%C8%9Bional%C4%83_de_la_Alba_Iulia",
+    "https://ro.wikipedia.org/wiki/Unirea_Transilvaniei_cu_Rom%C3%A2nia",
+    "https://ro.wikipedia.org/wiki/Ziua_na%C8%9Bional%C4%83_a_Rom%C3%A2niei"
+  ]
+}

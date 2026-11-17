@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0028",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Care este diferența dintre «decât» și «de cât»? Dă exemple pentru fiecare.",
+  "difficulty": "medium",
+  "reference_notes": "decât = adverb/conjuncție în comparații și restricții: «E mai înalt decât mine.», «N-am decât zece lei.»; de cât = prepoziția «de» + «cât» interogativ sau relativ: «De cât timp ai nevoie?»"
+}

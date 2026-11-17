@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0008",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Se scrie «nici un elev» sau «niciun elev»? Cum se scriu corect «nicio problemă» și «niciunul dintre ei»?",
+  "difficulty": "medium",
+  "reference_notes": "Norma actuală (DOOM) cere scrierea legată: niciun elev, nicio problemă, niciunul dintre ei, niciuna dintre ele."
+}

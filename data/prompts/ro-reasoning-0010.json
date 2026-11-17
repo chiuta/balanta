@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0010",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Câte numere de trei cifre distincte se pot forma cu cifrele 1, 2, 3, 4, 5 și câte dintre ele sunt pare?",
+  "difficulty": "medium",
+  "reference_notes": "60 de numere (5 · 4 · 3) și 24 dintre ele sunt pare: ultima cifră poate fi 2 sau 4 (2 variante), apoi 4 · 3 = 12 variante pentru primele două cifre, deci 2 · 12 = 24."
+}

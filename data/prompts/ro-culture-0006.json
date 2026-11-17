@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0006",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce s-a întâmplat la Vaslui (Podul Înalt) la 10 ianuarie 1475 și cine era domnul Moldovei?",
+  "difficulty": "medium",
+  "reference_notes": "Ștefan cel Mare (domn al Moldovei între 1457 și 1504) a învins o mare armată otomană condusă de Hadâm Suleiman Pașa, într-o zonă mlăștinoasă lângă Vaslui, victorie cunoscută ca bătălia de la Podul Înalt.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/B%C4%83t%C4%83lia_de_la_Vaslui",
+    "https://ro.wikipedia.org/wiki/%C8%98tefan_cel_Mare"
+  ]
+}

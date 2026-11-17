@@ -1,0 +1,8 @@
+{
+  "id": "hu-grammar-0001",
+  "lang": "hu",
+  "category": "grammar",
+  "prompt": "Mi a különbség a «-ban/-ben» és a «-ba/-be» toldalékok között? Adj két-két példát.",
+  "difficulty": "easy",
+  "reference_notes": "-ban/-ben: hol? (benne lévő, nyugvó helyzet): «a szobában vagyok», «Kolozsvárott, a házban lakom»; -ba/-be: hová? (irány): «a szobába megyek», «a házba lépek»."
+}

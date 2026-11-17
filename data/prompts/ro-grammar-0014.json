@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0014",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Care e forma corectă: «Fiecare dintre elevi au primit o diplomă» sau «Fiecare dintre elevi a primit o diplomă»? Explică.",
+  "difficulty": "medium",
+  "reference_notes": "«Fiecare» este pronume distributiv la singular, deci predicatul rămâne la singular: «Fiecare dintre elevi a primit o diplomă.»; varianta cu «au primit» este greșită."
+}

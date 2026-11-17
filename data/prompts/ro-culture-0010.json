@@ -1,0 +1,13 @@
+{
+  "id": "ro-culture-0010",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Când a aderat România la NATO, la Uniunea Europeană și la spațiul Schengen?",
+  "difficulty": "medium",
+  "reference_notes": "NATO: 29 martie 2004. Uniunea Europeană: 1 ianuarie 2007 (împreună cu Bulgaria). Schengen: aderare deplină la 1 ianuarie 2025; frontierele aeriene și maritime fuseseră incluse încă din martie 2024.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Rela%C8%9Biile_dintre_Rom%C3%A2nia_%C8%99i_NATO",
+    "https://ro.wikipedia.org/wiki/Integrarea_Rom%C3%A2niei_%C3%AEn_Uniunea_European%C4%83",
+    "https://ro.wikipedia.org/wiki/Rom%C3%A2nia"
+  ]
+}

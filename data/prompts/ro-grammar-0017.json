@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0017",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Dă participiul verbelor «a face», «a pune», «a vedea», «a lua», «a spune» și scrie fiecare verb la perfectul compus, persoana I singular.",
+  "difficulty": "medium",
+  "reference_notes": "făcut (am făcut), pus (am pus), văzut (am văzut), luat (am luat), spus (am spus)."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0015",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Explică diferența dintre «să fie» și «să fi» și dă câte un exemplu.",
+  "difficulty": "medium",
+  "reference_notes": "să fie = conjunctiv prezent al verbului a fi: «Vreau să fie gata mâine.»; să fi + participiu = conjunctiv perfect, pentru o acțiune anterioară sau nesigură: «Nu cred să fi ajuns deja.»"
+}

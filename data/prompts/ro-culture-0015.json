@@ -1,0 +1,11 @@
+{
+  "id": "ro-culture-0015",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Care sunt siturile din România înscrise în Lista patrimoniului mondial UNESCO în anii 2021 și 2024?",
+  "difficulty": "hard",
+  "reference_notes": "2021: Peisajul minier Roșia Montană (sit nou) și extinderea siturilor transnaționale «Pădurile primare și străvechi de fagi din Carpați și alte regiuni ale Europei». 2024: Ansamblul monumental Brâncuși de la Târgu Jiu și «Frontierele Imperiului Roman – Dacia».",
+  "sources": [
+    "https://whc.unesco.org/en/statesparties/ro/"
+  ]
+}

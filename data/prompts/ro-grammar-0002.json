@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0002",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Care este diferența dintre «i-a» și «ia», respectiv «i-au» și «iau»? Dă câte un exemplu pentru fiecare formă.",
+  "difficulty": "easy",
+  "reference_notes": "i-a / i-au = pronumele «îi» (dativ, elidat) + auxiliarul «a» / «au»: «I-a spus adevărul.», «I-au dat cartea.»; ia = verbul a lua (el/ea ia) sau substantivul «ia» (bluza tradițională); iau = verbul a lua (eu iau, ei iau): «Eu iau autobuzul.»"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0006",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Un tren pornește din orașul A spre orașul B cu 60 km/h, iar în același moment un alt tren pornește din B spre A cu 90 km/h. Distanța dintre orașe este 450 km. Peste cât timp se întâlnesc și la ce distanță de A?",
+  "difficulty": "medium",
+  "reference_notes": "Viteza de apropiere este 150 km/h, deci se întâlnesc peste 3 ore, la 180 km de A (și 270 km de B)."
+}

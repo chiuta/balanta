@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0021",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Cum se scriu ghilimelele în limba română? Dă un exemplu de citat în interiorul altui citat.",
+  "difficulty": "easy",
+  "reference_notes": "Ghilimelele românești sunt „ ” (deschidere jos, închidere sus), iar citatul din interior se pune între « »: „Mama a spus: «Vino acasă!»”."
+}

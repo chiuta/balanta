@@ -1,0 +1,13 @@
+{
+  "id": "ro-culture-0011",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Este Castelul Bran «castelul lui Dracula»? Ce se știe sigur și ce este legendă?",
+  "difficulty": "medium",
+  "reference_notes": "Castelul Bran (jud. Brașov) este o fortificație medievală din Transilvania. Legătura cu «Dracula» este în principal turistică și legendară: personajul Contele Dracula este fictiv, creat de Bram Stoker în romanul din 1897, iar asocierea cu Vlad Țepeș (domn al Țării Românești) se bazează în special pe numele «Dracula». Nu există dovezi că Vlad Țepeș a locuit la Bran, iar Stoker nu a vizitat Transilvania.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Comuna_Bran,_Bra%C8%99ov",
+    "https://ro.wikipedia.org/wiki/Dracula_(roman)",
+    "https://ro.wikipedia.org/wiki/Contele_Dracula"
+  ]
+}

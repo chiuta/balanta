@@ -1,0 +1,13 @@
+{
+  "id": "ro-culture-0016",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce este Sighișoara și ce legătură are orașul cu Vlad Țepeș?",
+  "difficulty": "medium",
+  "reference_notes": "Sighișoara este un oraș medieval fortificat din Transilvania, cu centrul istoric înscris în patrimoniul UNESCO în 1999. Vlad al III-lea Drăculea (Vlad Țepeș), născut în 1431 cel mai probabil aici, a domnit în Țara Românească de trei ori (1448, 1456–1462, 1476) și a murit la 14 decembrie 1476.",
+  "sources": [
+    "https://whc.unesco.org/en/statesparties/ro/",
+    "https://ro.wikipedia.org/wiki/Vlad_%C8%9Aepe%C8%99",
+    "https://ro.wikipedia.org/wiki/Transilvania_%C3%AEn_fic%C8%9Biune"
+  ]
+}

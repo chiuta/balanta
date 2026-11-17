@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0013",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Corectează, dacă este nevoie: «Omul care l-am văzut ieri e vecinul meu.» și «Cartea care am citit-o e interesantă.»",
+  "difficulty": "medium",
+  "reference_notes": "Complementul direct exprimat prin «care» cere prepoziția «pe» și dublarea prin pronume clitic: «Omul pe care l-am văzut ieri e vecinul meu.»; «Cartea pe care am citit-o e interesantă.»"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0018",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Depui 1000 de lei la o dobândă de 5% pe an, compusă anual. Câți lei ai în cont după 3 ani?",
+  "difficulty": "medium",
+  "reference_notes": "1157,63 lei (1000 · 1,05³ = 1157,625)."
+}

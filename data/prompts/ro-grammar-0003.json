@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0003",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Explică diferența dintre «l-a» și «la» și dă câte un exemplu.",
+  "difficulty": "easy",
+  "reference_notes": "l-a = pronumele «îl» (acuzativ, elidat) + auxiliarul «a»: «L-a văzut ieri.»; la = prepoziție: «Merg la școală.»"
+}

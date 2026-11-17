@@ -1,0 +1,65 @@
+/* BALANTA · stiluri pentru secțiunea aplicației (doar clase; politica CSP interzice atributele style).
+   Spațierea folosește margini, nu «gap», ca să meargă și în browsere mai vechi. */
+#app [hidden],.ba-card [hidden]{display:none!important}
+.ba-intro{max-width:70ch}
+.ba-msg{min-height:1.5em;max-width:80ch;font-weight:650;margin:.5em 0}
+.ba-msg p{margin:.2em 0}
+.ba-lines{margin:.3em 0 .3em 1.2em;padding:0;max-width:80ch;overflow-wrap:anywhere}
+.ba-tabs{display:flex;flex-wrap:wrap;margin:10px 0 6px}
+.ba-tabs .btn{margin:0 8px 8px 0;min-height:44px}
+.ba-box{margin:8px 0;min-width:0}
+.ba-box h3{margin:1.1em 0 .4em}
+.ba-bar{display:flex;flex-wrap:wrap;align-items:flex-end;margin:10px 0}
+.ba-bar>*{margin:0 10px 8px 0;min-width:0;max-width:100%}
+.ba-bar .btn{min-height:44px}
+.ba-f{display:flex;flex-direction:column;font-size:.88rem;color:var(--mut);min-width:0;max-width:100%;margin:0 12px 10px 0}
+.ba-f>label{font-weight:650;margin-bottom:4px}
+.ba-inp{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:10px;font:inherit;font-size:1rem;min-height:44px;padding:6px 10px;max-width:100%;min-width:0;box-sizing:border-box}
+.ba-inp:hover{border-color:var(--ac)}
+.sel.ba-inp{max-width:100%}
+textarea.ba-inp{display:block;width:100%;max-width:80ch;line-height:1.45;resize:vertical}
+input.ba-inp[type="text"]{width:100%;max-width:30rem}
+.ba-num{width:8rem}
+.ba-group{border:1px solid var(--line);border-radius:10px;margin:10px 0;padding:6px 12px 10px;min-width:0;max-width:80ch}
+.ba-group legend{font-weight:650;padding:0 6px}
+.ba-check{display:inline-flex;align-items:center;margin:4px 16px 4px 0;min-height:32px;cursor:pointer}
+.ba-check input{margin:0 8px 0 0;width:20px;height:20px}
+.ba-pool{color:var(--mut);margin:.4em 0 .8em;max-width:80ch}
+.ba-meta{color:var(--mut);font-size:.9rem;margin:.2em 0}
+.ba-prompt{margin:10px 0;padding:10px 14px;border-left:4px solid var(--ac);background:var(--bg2);max-width:80ch;white-space:pre-wrap;overflow-wrap:anywhere}
+.ba-cols{display:flex;flex-wrap:wrap;align-items:stretch}
+.ba-answer{flex:1 1 18rem;min-width:0;margin:0 12px 12px 0}
+.ba-answer h4{margin:.4em 0}
+.ba-anstext{white-space:pre-wrap;overflow-wrap:anywhere;max-height:26rem;overflow:auto;border:1px solid var(--line);border-radius:10px;padding:10px;background:var(--card);color:var(--tx);line-height:1.5}
+.ba-anstext:focus{outline:3px solid var(--ac);outline-offset:2px}
+.ba-votes .btn{min-height:48px}
+.ba-count{color:var(--mut);margin:.4em 0}
+.ba-vh{margin:.6em 0 .2em}
+.ba-empty{color:var(--mut);max-width:80ch}
+.ba-ref{margin:.8em 0;max-width:80ch}
+.ba-ref summary{cursor:pointer;font-weight:650;min-height:32px}
+.ba-notes{white-space:pre-wrap;overflow-wrap:anywhere}
+.ba-src{font-size:.86rem;overflow-wrap:anywhere;margin:.4em 0 .4em 1.2em;padding:0}
+.ba-table{margin-top:6px}
+.ba-table thead th{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line)}
+.ba-table th[scope="row"]{text-align:left;color:var(--tx);font-size:.93rem;font-weight:650;text-transform:none;letter-spacing:0;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
+.ba-table td{overflow-wrap:anywhere}
+.ba-cap,.ba-offscreen,.ba-file{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.ba-filelab{cursor:pointer}
+.ba-file:focus+.ba-filelab{outline:3px solid var(--ac);outline-offset:2px}
+.ba-file:focus-visible+.ba-filelab{outline:3px solid var(--ac);outline-offset:2px}
+.ba-check-out{max-width:80ch;margin:.4em 0}
+.ba-custom{list-style:none;margin:8px 0;padding:0;max-width:80ch}
+.ba-custom li{margin:8px 0;padding:10px;border:1px solid var(--line);border-radius:10px;overflow-wrap:anywhere}
+.ba-cid{font-weight:650}
+.ba-cprompt{color:var(--mut)}
+.ba-custom .btn{min-height:40px;padding:6px 14px;margin:6px 8px 0 0}
+.ba-list{max-width:80ch}
+.ba-bad{color:#ffb4ab}
+:root[data-theme="light"] .ba-bad{color:#8c1d18}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]) .ba-bad{color:#8c1d18}}
+.ba-ok{color:#9be3a8;font-weight:650}
+:root[data-theme="light"] .ba-ok{color:#14591f}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]) .ba-ok{color:#14591f}}
+.ba-warn{font-weight:650}
+@media (max-width:860px){.ba-inp{min-width:80px}.ba-answer{margin-right:0}}

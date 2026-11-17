@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0009",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Cum a început Revoluția din decembrie 1989 și cum s-a încheiat regimul lui Nicolae Ceaușescu?",
+  "difficulty": "medium",
+  "reference_notes": "A început la Timișoara, la 16 decembrie 1989, în jurul încercării autorităților de a-l evacua pe pastorul reformat László Tőkés. La 22 decembrie Ceaușescu a încercat să fugă, a fost capturat la Târgoviște, iar la 25 decembrie 1989 a fost judecat sumar și executat împreună cu soția sa.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Revolu%C8%9Bia_Rom%C3%A2n%C4%83_din_1989",
+    "https://ro.wikipedia.org/wiki/Cronologia_lui_Nicolae_Ceau%C8%99escu"
+  ]
+}

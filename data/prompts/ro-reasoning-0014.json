@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0014",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Trei cutii conțin: mere, portocale, respectiv mere și portocale amestecate. Toate cele trei etichete («mere», «portocale», «mere și portocale») sunt greșite. Poți scoate un singur fruct dintr-o singură cutie, fără să te uiți înăuntru. Din ce cutie scoți fructul și cum afli conținutul tuturor cutiilor?",
+  "difficulty": "medium",
+  "reference_notes": "Se alege cutia etichetată «mere și portocale»: eticheta e greșită, deci conține un singur fel de fruct. Dacă scoți un măr, cutia e cea cu mere; atunci cutia etichetată «portocale» nu poate fi nici cu portocale, nici cu mere, deci conține amestecul, iar cutia etichetată «mere» conține portocale. Simetric dacă scoți o portocală."
+}

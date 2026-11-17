@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0018",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Când a fost proclamat Regatul României și cine a devenit primul rege?",
+  "difficulty": "medium",
+  "reference_notes": "Regatul României a fost proclamat la 10 mai 1881, iar primul rege a fost Carol I (domnitor al României din 1866, după detronarea lui Cuza).",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Regatul_Rom%C3%A2niei",
+    "https://ro.wikipedia.org/wiki/Rom%C3%A2nia"
+  ]
+}

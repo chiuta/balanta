@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0007",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Un drum se parcurge dus cu 60 km/h și întors, pe același traseu, cu 40 km/h. Care este viteza medie pe întreg parcursul?",
+  "difficulty": "medium",
+  "reference_notes": "48 km/h (media armonică 2·60·40/(60+40)), nu 50 km/h: pe traseul mai lent se petrece mai mult timp."
+}

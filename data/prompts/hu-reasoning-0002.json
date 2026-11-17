@@ -1,0 +1,8 @@
+{
+  "id": "hu-reasoning-0002",
+  "lang": "hu",
+  "category": "reasoning",
+  "prompt": "Egy vonat 14:35-kor indul, és 18:10-kor érkezik. Mennyi ideig utazik?",
+  "difficulty": "easy",
+  "reference_notes": "3 óra 35 perc."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0013",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce este Delta Dunării, unde se află și ce statut internațional are?",
+  "difficulty": "easy",
+  "reference_notes": "Este delta prin care Dunărea se varsă în Marea Neagră; aproape toată suprafața ei se află în România (jud. Tulcea), iar o parte mică în Ucraina. Este înscrisă din 1991 în Lista patrimoniului mondial UNESCO (sit natural).",
+  "sources": [
+    "https://whc.unesco.org/en/statesparties/ro/",
+    "https://ro.wikipedia.org/wiki/Rom%C3%A2nia"
+  ]
+}

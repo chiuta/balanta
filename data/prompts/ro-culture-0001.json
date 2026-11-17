@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0001",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Cine a fost ales domn al ambelor Principate Române în 1859 și când s-au desfășurat cele două alegeri?",
+  "difficulty": "easy",
+  "reference_notes": "Alexandru Ioan Cuza, ales domn al Moldovei la 5 ianuarie 1859 (Iași) și al Țării Românești la 24 ianuarie 1859 (București), datele fiind în stil vechi. Până în 1862 cele două state au format o uniune personală; în 1862 s-a format primul guvern comun, cu capitala la București.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Unirea_Principatelor_Rom%C3%A2ne",
+    "https://ro.wikipedia.org/wiki/Principatele_Unite_ale_Moldovei_%C8%99i_%C8%9A%C4%83rii_Rom%C3%A2ne%C8%99ti"
+  ]
+}

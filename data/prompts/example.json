@@ -1,8 +1,11 @@
 {
-  "id": "ro-grammar-0001",
+  "id": "ro-culture-0000",
   "lang": "ro",
-  "category": "grammar",
-  "prompt": "Explică diferența dintre «s-au» și «sau» și dă câte două exemple.",
+  "category": "culture",
+  "prompt": "Scrie aici întrebarea, în limba indicată de «lang». Fără date personale și fără text protejat de drepturi de autor.",
   "difficulty": "easy",
-  "reference_notes": "s-au = pronume + auxiliar; sau = conjuncție."
+  "reference_notes": "Ce trebuie să conțină un răspuns corect, în una-două propoziții. Obligatoriu pentru categoria «culture».",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Rom%C3%A2nia"
+  ]
 }

@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0003",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Un caiet și un pix costă împreună 11 lei. Caietul costă cu 10 lei mai mult decât pixul. Cât costă pixul?",
+  "difficulty": "medium",
+  "reference_notes": "0,50 lei (caietul costă 10,50 lei). Nu 1 leu: atunci caietul ar costa 11 lei și suma ar fi 12 lei."
+}

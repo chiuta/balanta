@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0019",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Care este diferența dintre «copii» și «copiii», respectiv «fii» și «fiii»? Mai dă două perechi asemănătoare.",
+  "difficulty": "hard",
+  "reference_notes": "copii = plural nearticulat («mulți copii»); copiii = plural articulat hotărât («copiii din clasă»). La fel: fii / fiii; ochi / ochii; pui / puii."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0012",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Dacă azi este miercuri, ce zi a săptămânii va fi peste 100 de zile?",
+  "difficulty": "easy",
+  "reference_notes": "Vineri: 100 = 14 · 7 + 2, deci peste 100 de zile trec 2 zile în plus față de miercuri."
+}

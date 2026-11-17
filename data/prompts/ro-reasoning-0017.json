@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0017",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Un tren pleacă la 22:45 și ajunge a doua zi la 06:20. Cât durează călătoria?",
+  "difficulty": "easy",
+  "reference_notes": "7 ore și 35 de minute (1 h 15 min până la miezul nopții + 6 h 20 min)."
+}

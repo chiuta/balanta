@@ -1,0 +1,8 @@
+{
+  "id": "en-translation-0005",
+  "lang": "en",
+  "category": "translation",
+  "prompt": "Translate into Romanian: «She will eventually call you.» Watch out for false friends.",
+  "difficulty": "hard",
+  "reference_notes": "«Până la urmă te va suna.» or «În cele din urmă te va suna.» The Romanian «eventual» means «possibly / if the case arises», not «eventually»."
+}

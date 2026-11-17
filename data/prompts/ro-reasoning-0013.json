@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0013",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Un robinet umple un bazin în 6 ore, altul în 3 ore, iar un scurgător îl golește în 12 ore. Dacă toate trei sunt deschise simultan, în cât timp se umple bazinul gol?",
+  "difficulty": "medium",
+  "reference_notes": "În 2 ore și 24 de minute: debitul total este 1/6 + 1/3 − 1/12 = 5/12 din bazin pe oră, deci 12/5 ore = 2,4 ore."
+}

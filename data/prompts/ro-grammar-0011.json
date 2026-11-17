@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0011",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Scrie cu litere și corect gramatical: «12 elevi», «12 eleve», «20 elevi», «22 eleve», «19 elevi», «35 ani».",
+  "difficulty": "medium",
+  "reference_notes": "doisprezece elevi; douăsprezece eleve; douăzeci de elevi; douăzeci și două de eleve; nouăsprezece elevi; treizeci și cinci de ani. Prepoziția «de» apare de la 20 în sus, dar nu când numeralul se termină în 01–19 (105 elevi → o sută cinci elevi). «Doi» pentru masculin, «două» pentru feminin și neutru."
+}

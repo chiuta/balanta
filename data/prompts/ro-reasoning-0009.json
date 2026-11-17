@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0009",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Pe o insulă, cavalerii spun mereu adevărul, iar mincinoșii mint mereu. Ion spune: «Eu și Vasile suntem amândoi mincinoși». Ce sunt Ion și Vasile?",
+  "difficulty": "medium",
+  "reference_notes": "Ion este mincinos și Vasile este cavaler. Dacă Ion ar spune adevărul, ar fi mincinos, contradicție. Deci Ion minte, iar enunțul lui e fals: nu sunt amândoi mincinoși; cum Ion este mincinos, Vasile e cavaler."
+}

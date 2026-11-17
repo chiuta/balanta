@@ -1,0 +1,12 @@
+{
+  "id": "hu-culture-0002",
+  "lang": "hu",
+  "category": "culture",
+  "prompt": "Hol született I. (Hunyadi) Mátyás király, mikor kezdett uralkodni, és mikor koronázták királlyá?",
+  "difficulty": "medium",
+  "reference_notes": "Kolozsváron született 1443. február 23-án; 1458. január 24-től uralkodott, a koronázására azonban csak 1464. március 29-én került sor Székesfehérvárott. 1490. április 6-án halt meg Bécsben.",
+  "sources": [
+    "https://hu.wikipedia.org/wiki/I._M%C3%A1ty%C3%A1s_magyar_kir%C3%A1ly",
+    "https://hu.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_kir%C3%A1ly_sz%C3%BCl%C5%91h%C3%A1za"
+  ]
+}

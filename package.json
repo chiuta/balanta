@@ -1,0 +1,16 @@
+{
+  "name": "balanta",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Blind, side-by-side evaluation of AI models in Romanian: prompts and votes kept in the open.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test \"test/*.test.mjs\"",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check && python3 scripts/validate.py"
+  }
+}

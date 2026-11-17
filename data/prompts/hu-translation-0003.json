@@ -1,0 +1,8 @@
+{
+  "id": "hu-translation-0003",
+  "lang": "hu",
+  "category": "translation",
+  "prompt": "Magyarázd el, és fordítsd le románra a következő közmondást: «Nem esik messze az alma a fájától.»",
+  "difficulty": "hard",
+  "reference_notes": "Jelentése: a gyerek hasonlít a szüleire. Román megfelelője: «Mărul nu cade departe de pom.»"
+}

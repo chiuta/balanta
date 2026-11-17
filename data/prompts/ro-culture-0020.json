@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0020",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce rol a avut principele Carol I în asediul Plevnei din 1877 și cum s-a încheiat asediul?",
+  "difficulty": "medium",
+  "reference_notes": "Carol I a primit la 28 august 1877 comanda trupelor ruso-române aliate din fața Plevnei, având ca șef de stat major pe generalul rus Totleben. Asediul a durat până la 10 decembrie 1877, când comandantul otoman Osman Pașa a încercat să iasă din încercuire și a capitulat.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Carol_I_de_Hohenzollern",
+    "https://ro.wikipedia.org/wiki/R%C4%83zboiul_de_Independen%C8%9B%C4%83_al_Rom%C3%A2niei"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ro-culture-0007",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "În ce an a apărut poemul «Luceafărul» de Mihai Eminescu și unde? Care este singurul volum de versuri al lui Eminescu apărut în timpul vieții?",
+  "difficulty": "hard",
+  "reference_notes": "«Luceafărul» a apărut în 1883, în Almanahul Societății Academice Social-Literare «România Jună» din Viena. Singurul volum tipărit în timpul vieții este «Poesii» (editura Socec, București, cu prefață de Titu Maiorescu), pus în vânzare la 21 decembrie 1883, deși pe copertă figurează anul 1884.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/M._Eminescu",
+    "https://ro.wikipedia.org/wiki/Rom%C3%A2nia_Jun%C4%83",
+    "https://ro.wikipedia.org/wiki/Poesii"
+  ]
+}

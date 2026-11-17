@@ -1,0 +1,8 @@
+{
+  "id": "hu-grammar-0004",
+  "lang": "hu",
+  "category": "grammar",
+  "prompt": "Kisbetűvel vagy nagybetűvel írjuk a hónapok, a hét napjai és a nemzetiségek nevét? Adj példákat, és mondd meg, mi a helyzet az országnevekkel.",
+  "difficulty": "easy",
+  "reference_notes": "Kisbetűvel: január, hétfő, magyar, román. Az országnevek nagybetűvel kezdődnek: Magyarország, Románia."
+}

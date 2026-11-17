@@ -1,0 +1,8 @@
+{
+  "id": "hu-reasoning-0001",
+  "lang": "hu",
+  "category": "reasoning",
+  "prompt": "Egy kosárban 20 alma van. Péter elvesz 5-öt, majd Anna a maradék harmadát. Hány alma marad a kosárban?",
+  "difficulty": "easy",
+  "reference_notes": "10 alma: 20 − 5 = 15, Anna 15/3 = 5 almát vesz el, marad 15 − 5 = 10."
+}

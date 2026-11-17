@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "slug": "balanta",
+  "name": "BALANTA — Blind, side-by-side evaluation of AI models in Romanian — prompts and votes kept in the open",
+  "version": "0.2.0",
+  "updated": "2026-11-17",
+  "description": "Blind, side-by-side evaluation of AI models in Romanian — prompts and votes kept in the open",
+  "egress": [],
+  "permissions": [
+    "clipboard",
+    "serviceWorker",
+    "localStorage",
+    "WebGL"
+  ],
+  "storageKeys": [
+    "balanta.state"
+  ],
+  "sizeBytes": 473518,
+  "sha256": "ad526dfd9a5e0abe7b6a22f68a42baa5448bb91ed42a1ed9f63669f695e1f2eb",
+  "csp": {
+    "present": true,
+    "directives": {
+      "default-src": "'none'",
+      "script-src": "sha256×7",
+      "style-src": "sha256×3",
+      "img-src": "'self' data:",
+      "base-uri": "'none'",
+      "form-action": "'none'",
+      "manifest-src": "'self'",
+      "worker-src": "'self'"
+    },
+    "scriptInline": "hash",
+    "connect": "'none'"
+  },
+  "features": {
+    "export": true,
+    "import": true,
+    "i18n": [
+      "ro",
+      "en",
+      "fr",
+      "it",
+      "es",
+      "pt",
+      "hu",
+      "de"
+    ],
+    "pwa": {
+      "manifest": true,
+      "serviceWorker": true
+    },
+    "modules": [
+      "core",
+      "store",
+      "view",
+      "a11y",
+      "share"
+    ]
+  },
+  "kit": {
+    "version": "1.8.0",
+    "modules": [
+      "core",
+      "store",
+      "view",
+      "a11y",
+      "share"
+    ]
+  },
+  "selfSerializing": false
+}

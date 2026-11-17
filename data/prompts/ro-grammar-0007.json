@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0007",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Cum se scriu corect: «dintr-un», «dintrun» sau «dintr un»? Dar «într-o»? Explică regula și dă și alte două cuvinte care se scriu la fel.",
+  "difficulty": "medium",
+  "reference_notes": "Corect: dintr-un, dintr-o, într-un, într-o (prepoziția + articolul nehotărât, legate prin cratimă). Alte cazuri la fel: printr-un, printr-o, dintr-o. Formele fără cratimă sau cu spațiu sunt greșite."
+}

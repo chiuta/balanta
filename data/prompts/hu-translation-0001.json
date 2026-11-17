@@ -1,0 +1,8 @@
+{
+  "id": "hu-translation-0001",
+  "lang": "hu",
+  "category": "translation",
+  "prompt": "Fordítsd le magyarra: «Bună ziua, aș dori să rezerv o masă pentru patru persoane la ora opt seara.»",
+  "difficulty": "medium",
+  "reference_notes": "«Jó napot kívánok, szeretnék asztalt foglalni négy főre este nyolc órára.» (a «négy személyre» is jó)."
+}

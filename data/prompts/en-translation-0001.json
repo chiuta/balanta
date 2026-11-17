@@ -1,0 +1,8 @@
+{
+  "id": "en-translation-0001",
+  "lang": "en",
+  "category": "translation",
+  "prompt": "Translate into natural Romanian: «It's raining cats and dogs.»",
+  "difficulty": "easy",
+  "reference_notes": "«Plouă cu găleata.» (also «Toarnă cu găleata», «Plouă torențial»). A literal «Plouă pisici și câini» is wrong."
+}

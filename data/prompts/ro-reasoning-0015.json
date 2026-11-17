@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0015",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Patru persoane trebuie să treacă noaptea un pod cu o singură lanternă; pe pod pot merge cel mult două persoane odată, iar perechea merge cu viteza celei mai lente. Ele au nevoie de 1, 2, 5 și 10 minute. Care este timpul minim în care trec toate?",
+  "difficulty": "hard",
+  "reference_notes": "17 minute: (1 și 2) trec, 2 min; 1 se întoarce, 1 min; (5 și 10) trec, 10 min; 2 se întoarce, 2 min; (1 și 2) trec, 2 min."
+}

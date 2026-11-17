@@ -1,0 +1,1922 @@
+[
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:00:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:01:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:02:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:03:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:04:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:05:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:06:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:07:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:08:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:09:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:10:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:11:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:12:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:13:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:14:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "alfa",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:15:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:16:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:17:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:18:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:19:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "delta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:20:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "beta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:21:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "gama",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:22:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:23:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:24:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:25:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:26:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:27:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:28:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:29:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "epsilon",
+"b": "gama",
+"winner": "bad",
+"t": "2026-11-17T10:30:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "alfa",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:31:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "epsilon",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:32:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:33:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "alfa",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:34:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "delta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:35:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "beta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:36:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "gama",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:37:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "beta",
+"b": "delta",
+"winner": "tie",
+"t": "2026-11-17T10:38:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:39:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "beta",
+"b": "gama",
+"winner": "bad",
+"t": "2026-11-17T10:40:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:41:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:42:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:43:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:44:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "alfa",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:45:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:46:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:47:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:48:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:49:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:50:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:51:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "alfa",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:52:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "epsilon",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:53:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "beta",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:54:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:55:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "alfa",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:56:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "gama",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:57:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:58:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "gama",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:59:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:00:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "gama",
+"b": "alfa",
+"winner": "bad",
+"t": "2026-11-17T10:01:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "beta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:02:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "delta",
+"b": "alfa",
+"winner": "tie",
+"t": "2026-11-17T10:03:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "delta",
+"b": "alfa",
+"winner": "tie",
+"t": "2026-11-17T10:04:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:05:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:06:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "epsilon",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:07:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "alfa",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:08:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "gama",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:09:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:10:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:11:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:12:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:13:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "alfa",
+"b": "delta",
+"winner": "b",
+"t": "2026-11-17T10:14:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "delta",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:15:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "gama",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:16:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:17:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:18:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "beta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:19:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:20:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "beta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:21:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:22:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:23:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "alfa",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:24:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "gama",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:25:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "delta",
+"b": "gama",
+"winner": "bad",
+"t": "2026-11-17T10:26:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:27:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:28:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:29:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "alfa",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:30:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "alfa",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:31:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "gama",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:32:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:33:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:34:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:35:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "epsilon",
+"b": "gama",
+"winner": "bad",
+"t": "2026-11-17T10:36:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "beta",
+"b": "epsilon",
+"winner": "tie",
+"t": "2026-11-17T10:37:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:38:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:39:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "gama",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:40:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:41:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:42:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:43:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:44:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:45:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:46:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "alfa",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:47:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "delta",
+"b": "alfa",
+"winner": "bad",
+"t": "2026-11-17T10:48:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:49:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "alfa",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:50:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:51:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:52:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "alfa",
+"b": "beta",
+"winner": "tie",
+"t": "2026-11-17T10:53:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "alfa",
+"b": "delta",
+"winner": "b",
+"t": "2026-11-17T10:54:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "beta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:55:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:56:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "epsilon",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:57:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:58:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "delta",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:59:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:00:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:01:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:02:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "beta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:03:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:04:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:05:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:06:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:07:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "beta",
+"b": "alfa",
+"winner": "bad",
+"t": "2026-11-17T10:08:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "delta",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:09:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:10:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:11:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "delta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:12:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "delta",
+"b": "alfa",
+"winner": "bad",
+"t": "2026-11-17T10:13:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:14:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "beta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:15:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "gama",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:16:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:17:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "epsilon",
+"b": "alfa",
+"winner": "tie",
+"t": "2026-11-17T10:18:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "epsilon",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:19:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:20:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:21:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:22:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "epsilon",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:23:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:24:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "gama",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:25:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:26:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:27:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:28:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:29:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:30:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "gama",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:31:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "epsilon",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:32:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:33:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "alfa",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:34:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:35:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:36:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "beta",
+"b": "gama",
+"winner": "bad",
+"t": "2026-11-17T10:37:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:38:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:39:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:40:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:41:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:42:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "alfa",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:43:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:44:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:45:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:46:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:47:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "beta",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:48:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "gama",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:49:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:50:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "gama",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:51:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:52:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:53:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:54:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "gama",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:55:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "gama",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:56:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:57:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:58:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "alfa",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:59:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "alfa",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:00:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "beta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:01:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:02:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "delta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:03:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "gama",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:04:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "epsilon",
+"b": "delta",
+"winner": "bad",
+"t": "2026-11-17T10:05:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:06:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:07:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:08:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:09:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:10:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:11:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:12:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "gama",
+"b": "delta",
+"winner": "b",
+"t": "2026-11-17T10:13:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "epsilon",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:14:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "gama",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:15:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "beta",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:16:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "delta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:17:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:18:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "gama",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:19:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "beta",
+"b": "delta",
+"winner": "b",
+"t": "2026-11-17T10:20:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "gama",
+"b": "beta",
+"winner": "a",
+"t": "2026-11-17T10:21:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "alfa",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:22:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "beta",
+"b": "alfa",
+"winner": "a",
+"t": "2026-11-17T10:23:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "delta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:24:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "alfa",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:25:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "alfa",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:26:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "delta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:27:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "epsilon",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:28:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "epsilon",
+"b": "beta",
+"winner": "bad",
+"t": "2026-11-17T10:29:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0001",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:30:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0002",
+"a": "epsilon",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:31:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0003",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:32:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0004",
+"a": "epsilon",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:33:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0005",
+"a": "beta",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:34:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0006",
+"a": "epsilon",
+"b": "beta",
+"winner": "tie",
+"t": "2026-11-17T10:35:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0007",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:36:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0008",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:37:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0009",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:38:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0010",
+"a": "gama",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:39:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0011",
+"a": "beta",
+"b": "epsilon",
+"winner": "b",
+"t": "2026-11-17T10:40:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0012",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:41:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0013",
+"a": "beta",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:42:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0014",
+"a": "beta",
+"b": "alfa",
+"winner": "tie",
+"t": "2026-11-17T10:43:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0015",
+"a": "delta",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:44:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0016",
+"a": "gama",
+"b": "delta",
+"winner": "tie",
+"t": "2026-11-17T10:45:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0017",
+"a": "gama",
+"b": "beta",
+"winner": "b",
+"t": "2026-11-17T10:46:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0018",
+"a": "epsilon",
+"b": "gama",
+"winner": "a",
+"t": "2026-11-17T10:47:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0019",
+"a": "beta",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:48:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0020",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:49:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0021",
+"a": "gama",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:50:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0022",
+"a": "delta",
+"b": "epsilon",
+"winner": "tie",
+"t": "2026-11-17T10:51:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0023",
+"a": "delta",
+"b": "gama",
+"winner": "tie",
+"t": "2026-11-17T10:52:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0024",
+"a": "alfa",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:53:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0025",
+"a": "epsilon",
+"b": "alfa",
+"winner": "b",
+"t": "2026-11-17T10:54:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0026",
+"a": "delta",
+"b": "gama",
+"winner": "b",
+"t": "2026-11-17T10:55:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0027",
+"a": "beta",
+"b": "epsilon",
+"winner": "a",
+"t": "2026-11-17T10:56:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0028",
+"a": "gama",
+"b": "epsilon",
+"winner": "bad",
+"t": "2026-11-17T10:57:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0029",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:58:00Z"
+},
+{
+"v": 1,
+"prompt": "ro-grammar-0030",
+"a": "gama",
+"b": "delta",
+"winner": "a",
+"t": "2026-11-17T10:59:00Z"
+}
+]

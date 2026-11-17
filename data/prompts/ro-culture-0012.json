@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0012",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce fel de limbă este româna și care sunt principalele straturi de influență din vocabularul ei?",
+  "difficulty": "easy",
+  "reference_notes": "Limbă romanică din ramura orientală, evoluată din latina populară (vulgară); conține un mic substrat traco-dac. Contactul cu populațiile slave din secolul al VI-lea a adus numeroase împrumuturi; ulterior au influențat-o maghiara, greaca, turca, iar în epoca modernă franceza, italiana și, azi, engleza.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Limba_rom%C3%A2n%C4%83",
+    "https://ro.wikipedia.org/wiki/Vocabularul_limbii_rom%C3%A2ne"
+  ]
+}

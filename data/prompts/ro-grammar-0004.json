@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0004",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Explică diferența dintre «ne-am» și «neam» și dă câte un exemplu.",
+  "difficulty": "easy",
+  "reference_notes": "ne-am = pronumele «ne» + auxiliarul «am»: «Ne-am întâlnit la gară.»; neam = substantiv (familie, origine, popor): «E un om de neam bun.»"
+}

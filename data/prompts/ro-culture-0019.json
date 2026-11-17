@@ -1,0 +1,11 @@
+{
+  "id": "ro-culture-0019",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Unde și când a fost încoronat regele Ferdinand I al României?",
+  "difficulty": "hard",
+  "reference_notes": "La Alba Iulia, la 15 octombrie 1922, odată cu regina Maria; locul a fost ales pentru valoarea simbolică a Marii Uniri din 1918.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Regatul_Rom%C3%A2niei"
+  ]
+}

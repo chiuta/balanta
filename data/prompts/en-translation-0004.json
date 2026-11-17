@@ -1,0 +1,8 @@
+{
+  "id": "en-translation-0004",
+  "lang": "en",
+  "category": "translation",
+  "prompt": "Translate into Romanian, keeping the informal register: «The old man finally kicked the bucket.»",
+  "difficulty": "medium",
+  "reference_notes": "«Bătrânul a dat colțul în cele din urmă.» («a da colțul» is the closest colloquial idiom for «to die»; the neutral version is «a murit».)"
+}

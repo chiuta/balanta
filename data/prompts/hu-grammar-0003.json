@@ -1,0 +1,8 @@
+{
+  "id": "hu-grammar-0003",
+  "lang": "hu",
+  "category": "grammar",
+  "prompt": "Mi a különbség az alanyi és a tárgyas ragozás között? Magyarázd el az «Olvasok egy könyvet.» és az «Olvasom a könyvet.» mondatokkal.",
+  "difficulty": "medium",
+  "reference_notes": "Alanyi ragozás: a tárgy határozatlan vagy nincs tárgy («Olvasok egy könyvet.»); tárgyas ragozás: a tárgy határozott («Olvasom a könyvet.»)."
+}

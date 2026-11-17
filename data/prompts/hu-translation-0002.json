@@ -1,0 +1,8 @@
+{
+  "id": "hu-translation-0002",
+  "lang": "hu",
+  "category": "translation",
+  "prompt": "Fordítsd le románra: «Holnap korán kell kelnem, ezért ma korán lefekszem.»",
+  "difficulty": "medium",
+  "reference_notes": "«Mâine trebuie să mă trezesc devreme, de aceea mă culc devreme azi.»"
+}

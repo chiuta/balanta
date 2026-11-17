@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0005",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce a realizat Mihai Viteazul în anul 1600 și cum s-a încheiat domnia lui?",
+  "difficulty": "medium",
+  "reference_notes": "În 1600 a controlat, pentru scurt timp, Țara Românească, Transilvania (după bătălia de la Șelimbăr, 28 octombrie 1599) și Moldova (mai 1600), într-o unire personală efemeră. A fost asasinat la 9 august 1601, la Câmpia Turzii, din ordinul generalului imperial Giorgio Basta.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Mihai_Viteazul",
+    "https://ro.wikipedia.org/wiki/Istoria_Transilvaniei"
+  ]
+}

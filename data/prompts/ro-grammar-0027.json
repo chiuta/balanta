@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0027",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Pune cratimele și diacriticele corecte în: «dami l», «ia o», «spunemi le».",
+  "difficulty": "medium",
+  "reference_notes": "dă-mi-l, ia-o, spune-mi-le. Cratima leagă verbul de pronumele clitice; pronumele în dativ (mi) precede pe cel în acuzativ (l, o, le)."
+}

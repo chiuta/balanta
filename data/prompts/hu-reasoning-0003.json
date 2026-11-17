@@ -1,0 +1,8 @@
+{
+  "id": "hu-reasoning-0003",
+  "lang": "hu",
+  "category": "reasoning",
+  "prompt": "Péter kétszer annyi idős, mint Anna. Öt év múlva Péter másfélszer lesz olyan idős, mint Anna. Hány évesek most?",
+  "difficulty": "medium",
+  "reference_notes": "Anna 5 éves, Péter 10 éves: ha Anna a, akkor 2a + 5 = 1,5 · (a + 5), ahonnan a = 5."
+}

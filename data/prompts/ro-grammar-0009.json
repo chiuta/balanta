@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0009",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Care este regula de scriere a literelor «î» și «â» în limba română? Dă exemple și menționează excepțiile.",
+  "difficulty": "medium",
+  "reference_notes": "î se scrie la începutul și la sfârșitul cuvântului (înainte, a urî, a coborî); â se scrie în interior (câmp, lână, român, România). Excepție: în compuse și derivate cu prefix, î se păstrează în interior (neînțeles, reîncălzi, preîntâmpina). Din 1993 se scrie «sunt» (nu «sînt») și «România», «român» (cu â)."
+}

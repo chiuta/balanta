@@ -1,0 +1,8 @@
+{
+  "id": "ro-reasoning-0005",
+  "lang": "ro",
+  "category": "reasoning",
+  "prompt": "Ana are acum de două ori vârsta pe care o avea Bogdan atunci când Ana avea vârsta pe care o are Bogdan acum. Împreună au acum 63 de ani. Câți ani are fiecare?",
+  "difficulty": "hard",
+  "reference_notes": "Ana 36 de ani, Bogdan 27. Verificare: acum 9 ani Ana avea 27 de ani (vârsta actuală a lui Bogdan), iar Bogdan avea 18; 36 = 2 · 18. Din condiții: 3A = 4B și A + B = 63."
+}

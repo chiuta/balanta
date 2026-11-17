@@ -1,0 +1,8 @@
+{
+  "id": "hu-grammar-0002",
+  "lang": "hu",
+  "category": "grammar",
+  "prompt": "Add meg a -val/-vel ragos alakot: kéz, busz, tanár, ember, könyv.",
+  "difficulty": "medium",
+  "reference_notes": "kézzel, busszal, tanárral, emberrel, könyvvel (a rag v-je hasonul az előző mássalhangzóhoz)."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ro-culture-0003",
+  "lang": "ro",
+  "category": "culture",
+  "prompt": "Ce teritorii enumeră Rezoluția de la Alba Iulia din 1918 și ce drept proclamă «îndeosebi» pentru Banat?",
+  "difficulty": "hard",
+  "reference_notes": "Articolul I decretează unirea cu România a românilor din Transilvania, Banat și «Țara Ungurească» și a tuturor teritoriilor locuite de ei. Adunarea proclamă în mod special dreptul inalienabil al națiunii române la întreg Banatul cuprins între râurile Mureș, Tisa și Dunăre. Preluarea administrației Banatului a avut loc mai târziu și cu dificultăți, din cauza trupelor sârbe și franceze din regiune.",
+  "sources": [
+    "https://ro.wikipedia.org/wiki/Declara%C8%9Bia_de_la_Alba_Iulia",
+    "https://ro.wikipedia.org/wiki/Unirea_Banatului_cu_Rom%C3%A2nia"
+  ]
+}

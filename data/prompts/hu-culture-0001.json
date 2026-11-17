@@ -1,0 +1,12 @@
+{
+  "id": "hu-culture-0001",
+  "lang": "hu",
+  "category": "culture",
+  "prompt": "Mikor és hol írták alá a trianoni békeszerződést, és hogyan érintette Magyarország területét?",
+  "difficulty": "medium",
+  "reference_notes": "1920. június 4-én írták alá Versailles-ban, a Nagy-Trianon kastélyban; Magyarország elvesztette a területének mintegy kétharmadát. A szerződés 1921. július 31-én lépett hatályba.",
+  "sources": [
+    "https://hu.wikipedia.org/wiki/Trianoni_b%C3%A9ke",
+    "https://hu.wikipedia.org/wiki/J%C3%BAnius_4"
+  ]
+}

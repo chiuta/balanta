@@ -1,0 +1,8 @@
+{
+  "id": "ro-grammar-0030",
+  "lang": "ro",
+  "category": "grammar",
+  "prompt": "Scrie pluralul substantivelor: cal, ou, nume, frate, floare, ochi.",
+  "difficulty": "medium",
+  "reference_notes": "cai, ouă, nume, frați, flori, ochi. (Cu articol hotărât: caii, ouăle, numele, frații, florile, ochii.)"
+}
