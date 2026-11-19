@@ -1,6 +1,6 @@
 {
   "name": "balanta",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "type": "module",
   "description": "Blind, side-by-side evaluation of AI models in Romanian: prompts and votes kept in the open.",

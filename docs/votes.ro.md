@@ -2,7 +2,7 @@
 
 [English](votes.md) · **Română**
 
-Versiune: 0.2.0 · Ultima actualizare: 2026-11-17
+Versiune: 0.2.1 · Ultima actualizare: 2026-11-20
 
 Pagina descrie cele două fișiere pe care aplicația le citește și le scrie, calculele din spatele clasamentului, felul în care sunt trase perechile la orb și lista de verificare pentru prompturi noi. Clasamentul este implementat de două ori, în `src/engine.mjs` și în `scripts/rank.py`, iar testele verifică dacă cele două sunt de acord la 1e-6; astfel oricine poate recalcula un tabel publicat pornind de la `votes.jsonl`.
 

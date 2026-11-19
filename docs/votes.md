@@ -2,7 +2,7 @@
 
 **English** · [Română](votes.ro.md)
 
-Version: 0.2.0 · Last updated: 2026-11-17
+Version: 0.2.1 · Last updated: 2026-11-20
 
 This page describes the two files the app reads and writes, the arithmetic behind the ranking, how blind pairs are drawn, and the checklist for new prompts. The ranking is implemented twice, in `src/engine.mjs` and in `scripts/rank.py`, and the tests check that the two agree to 1e-6, so anyone can recompute a published table from its `votes.jsonl`.
 

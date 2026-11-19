@@ -2,8 +2,8 @@
   "schema": 1,
   "slug": "balanta",
   "name": "BALANTA — Blind, side-by-side evaluation of AI models in Romanian — prompts and votes kept in the open",
-  "version": "0.2.0",
-  "updated": "2026-11-17",
+  "version": "0.2.1",
+  "updated": "2026-11-20",
   "description": "Blind, side-by-side evaluation of AI models in Romanian — prompts and votes kept in the open",
   "egress": [],
   "permissions": [
@@ -15,8 +15,8 @@
   "storageKeys": [
     "balanta.state"
   ],
-  "sizeBytes": 473518,
-  "sha256": "ad526dfd9a5e0abe7b6a22f68a42baa5448bb91ed42a1ed9f63669f695e1f2eb",
+  "sizeBytes": 477024,
+  "sha256": "fc91e7c94eea5060e0ef153edeaca063e4462d35b9927d473aca05aa6fbcbffd",
   "csp": {
     "present": true,
     "directives": {
@@ -58,7 +58,7 @@
     ]
   },
   "kit": {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "modules": [
       "core",
       "store",
